@@ -44,4 +44,12 @@ source of income for the person making the blog like website with ads. I should 
 novel describing my childhood trauma of being forced fed delicious food from my loving parents before every recipe. My plan is to have each recipe page have a basic layout: a
 recipe name (the title of the page), a list of ingredients, step by step directions, the source of this recipe if applicable, and maybe some food porn (pictures). 
 
-But how am I going to make money on this?! How will I even support this site?! While I don't expect to make money off this, I have the means to support the website once it's a more finished project. 
+But how am I going to make money on this?! How will I even support this site?! While I don't expect to make money off this, I have the means to support the website once it's a more finished project. I want to avoid any ads what-so-ever. One day it might get down to running ads to support the site if it gets too much traffic. Though I would want unobtrusive ads and would aim for something like a single ad per page. Maybe one day I could learn how to create an account system and have a "pro version" of the site. If I did this; I would try and not serve ads to anyone but if you pay a cheap premium you get access to additional tools. 
+
+
+**Why an I even writing this readme**
+
+You don't need a read me for some pathetic site right? Well I guess I can use this as a way to establish my mission and goals for this. If you actually read all all of this, please feel free to reach out to me in the email listed above.
+
+Got any suggestions for my website: please email onlyrecipeshere@gmail.com
+There will also be a changenotes file that will be have changes listed in it by day.
