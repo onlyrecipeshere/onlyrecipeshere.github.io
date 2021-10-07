@@ -43,3 +43,5 @@ This is a very important question, isn't it. I realize that the ads are there fo
 source of income for the person making the blog like website with ads. I should also add, this website won't really be a blog like situation. I'm not going to write a fucking
 novel describing my childhood trauma of being forced fed delicious food from my loving parents before every recipe. My plan is to have each recipe page have a basic layout: a
 recipe name (the title of the page), a list of ingredients, step by step directions, the source of this recipe if applicable, and maybe some food porn (pictures). 
+
+But how am I going to make money on this?! How will I even support this site?! While I don't expect to make money off this, I have the means to support the website once it's a more finished project. 
