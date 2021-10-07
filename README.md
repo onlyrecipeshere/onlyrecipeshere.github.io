@@ -18,16 +18,20 @@ If you have found this readme, visit my github hosted page or send me an email @
 **The Goal**
 The goal(s) is simple; 
 1. Learn to code HTML/CSS/JS/+more
+
    This is the perfect time to try out learning how to do HTML. I have dabbled here and there, but never really finished anything. I took 1 HTML class in my senior year of high
    school, and took part of a HTML course (front end development focused program) on edX that I never finished. I feel as though if I take up a project I am more likely to 
    learning something, assuming I finish this project. I give myself 1 year to see how far I get: On 10/6/2022 we will see how far I have grown. Added to my Google calander! 
 
 2. Make a website that offers an ad free way to share recipes.
+ 
    I'm here to provide this. This is the end goal! Once this site gets to that point of being good or well done, I may convert this to an actual site; hosted on a real premium 
    service with a domain and everything. Part of this goal will be listed in the next section.
 3. ??
+
    I kinda really only put this goal here for the memeluls. But really I didn't know what to put here. I may add other goals later.
 4. Profit
+
    Profit. Period. But what do I mean by profit?! Well maybe one day I'll find a way to make money off this website. I'll also gain valuable knowledge as I grow my coding ability. 
    And we know that knowing is half the knowing battle. Maybe this knowledge could lead to a job as a web developer, which could lead to more money than what I have now!
    
